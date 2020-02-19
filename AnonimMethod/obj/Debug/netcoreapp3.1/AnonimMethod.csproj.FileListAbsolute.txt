@@ -1,0 +1,11 @@
+C:\Users\rocho\Desktop\AnonimMethod\bin\Debug\netcoreapp3.1\AnonimMethod.exe
+C:\Users\rocho\Desktop\AnonimMethod\bin\Debug\netcoreapp3.1\AnonimMethod.deps.json
+C:\Users\rocho\Desktop\AnonimMethod\bin\Debug\netcoreapp3.1\AnonimMethod.runtimeconfig.json
+C:\Users\rocho\Desktop\AnonimMethod\bin\Debug\netcoreapp3.1\AnonimMethod.runtimeconfig.dev.json
+C:\Users\rocho\Desktop\AnonimMethod\bin\Debug\netcoreapp3.1\AnonimMethod.dll
+C:\Users\rocho\Desktop\AnonimMethod\bin\Debug\netcoreapp3.1\AnonimMethod.pdb
+C:\Users\rocho\Desktop\AnonimMethod\obj\Debug\netcoreapp3.1\AnonimMethod.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\AnonimMethod\obj\Debug\netcoreapp3.1\AnonimMethod.AssemblyInfoInputs.cache
+C:\Users\rocho\Desktop\AnonimMethod\obj\Debug\netcoreapp3.1\AnonimMethod.AssemblyInfo.cs
+C:\Users\rocho\Desktop\AnonimMethod\obj\Debug\netcoreapp3.1\AnonimMethod.dll
+C:\Users\rocho\Desktop\AnonimMethod\obj\Debug\netcoreapp3.1\AnonimMethod.pdb
